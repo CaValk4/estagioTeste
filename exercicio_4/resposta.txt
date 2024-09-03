@@ -1,0 +1,23 @@
+a) 
+r: 9
+os numeros somam de 2 em 2;
+
+b) 
+r: 128
+cada numero é igual é o anterior multiplicado por 2;
+
+c) 
+r: 49
+cada numero é o resultado do quadrado perfeito de forma consecutiva;
+
+d)
+r: 100
+cada numero é o quadrado perfeito dos numeros pares;
+
+e)
+r: 13
+se trata da sequencia de fibonacci;
+
+f)
+r: 20
+de 2 para 10 foram 8, de 10 para 12 foram 2, de 12 para 16 foram 4, e sobra uma sequencia de somas com 1, 3 somas de 1, faltando apenas 1 para 4 somas, então 19+1 = 20;

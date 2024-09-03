@@ -1,0 +1,14 @@
+{
+  "name": "estagioteste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ex1":"clear && node ./exercicio_1/fibonacci.js",
+    "ex2":"clear && node ./exercicio_2/check-A.js",
+    "ex3":"clear && node ./exercicio_3/ex3.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
